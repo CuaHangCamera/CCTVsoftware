@@ -38,11 +38,5 @@ Hotline: 0931 435 998
 
 Email: kinhdoanh@wintech.vip  Website:  https://www.WinTech.VIP
 
-# YooSee Camera
-Địa chỉ mã cộng liên hệ: VP7C+2M 10.862, 106.721 
-
-Email: kinhdoanh@yoosee.vip
-
-Website: https://www.YooSee.VIP
-
+ 
 
