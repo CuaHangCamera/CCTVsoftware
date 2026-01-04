@@ -27,8 +27,6 @@ Chuyên phân phối camera quan sát
 
 Email: NhaPhanPhoiCamera@gmail.com
 
-Website: https://NhaPhanPhoiCamera.net 
-
 # WINTECH VIỆT NAM
 BD: Đường Mỹ Phước - Tân Vạn, KP.1, P. Phú Mỹ, TP.TDM
 
